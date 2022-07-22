@@ -4,6 +4,7 @@
     "title": "Você sabia?",
     "description": "Mulheres colecionam conquistas históricas no futebol; veja oito delas neste 8 de março.",
     "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
+    "date": "19/07/2022",
     "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
   },
   {
@@ -11,6 +12,7 @@
     "title": "Por que vou parar de sonhar?",
     "description": "Em carta ao filho, Cristiane recorda infância dura e ambições: Por que vou parar de sonhar?",
     "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
+    "date": "20/07/2022",
     "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/02/em-carta-ao-filho-cristiane-recorda-infancia-dura-e-ambicoes-por-que-vou-parar-de-sonhar.ghtml"
   },
   {
@@ -18,6 +20,7 @@
     "title": "Dupla de respeito",
     "description": "Com show da dupla Jhonson e Aline, Brasil estreia com vitória no Sul-Americano Feminino Sub-17.",
     "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
+    "date": "20/07/2022",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
   },
   {
@@ -25,6 +28,7 @@
     "title": "Estreia marcada",
     "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
     "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
+    "date": "21/07/2022",
     "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
   }
 ]
